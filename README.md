@@ -1,5 +1,8 @@
 # Framework-for-Airline-Customer-Satisfaction-Analysis
 # Airline Passenger Satisfaction Analysis
+[View Google Slides Presentation](https://docs.google.com/presentation/d/1ZWqdMnHScnHnld7CjqcgBRI1y3P9SsZD/edit?usp=sharing&ouid=100955821223797766024&rtpof=true&sd=true)
+[View Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiNzFlMGQ5NGYtMGQ5OC00ZDVjLWFjNGYtZmEzNzk1N2VmNGJmIiwidCI6Ijk2NzNlOWE4LWFhNTctNDQ2MS05MzM2LTVmZDNmMDAzNGUxOCIsImMiOjZ9)
+
 
 ## Description
 This project was created by Apoorv Vaishampayan for MIS695. The project is a data-driven analytical tool that employs Python for exploratory data analysis (EDA) and displays findings on a Streamlit website along with key KPI visualization, machine learning models, and necessary performance improvement recommendations. It provides actionable analytics and assists in identifying service gaps at numerous customer touchpoints during airline travel. 
